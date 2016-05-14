@@ -1,4 +1,4 @@
---by @Hextor_ch
+--b
 
 #!/usr/bin/env bash
 
@@ -119,4 +119,4 @@ else
   done
 fi
 
---by @Hextor_ch
+--by 
